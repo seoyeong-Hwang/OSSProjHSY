@@ -1,1 +1,3 @@
-# 2025-1-OSSProj-skycastle-03
+### 2025-1-OSSProj-skycastle-03 팀의 리파지토리입니다.
+- 팀 구성 
+    - (팀장) 김하늘
