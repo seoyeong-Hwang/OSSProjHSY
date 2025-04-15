@@ -1,5 +1,5 @@
 ## 2025-1-OSSProj-skycastle-03
-![MindTune Logo](./Src/img/Project_Intro.png)
+![MindTune Intro](./Src/img/Project_Intro.png)
 
 ### 0. 팀 구성
 
