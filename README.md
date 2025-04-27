@@ -1,6 +1,11 @@
 ## 2025-1-OSSProj-skycastle-03
 ![MindTune Intro](./Src/img/Project_Intro.png)
 
+[Front-end Repository](https://github.com/CSID-DGU/2025-1-OSSProj-skycastle-03-Front.git)
+
+[Back-end Repository](https://github.com/CSID-DGU/2025-1-OSSProj-skycastle-03-Back.git)
+
+
 ### 0. 팀 구성
 
 | 구분 | 성명   | 역할                | 소속학과      | 연계전공        | 이메일 |
