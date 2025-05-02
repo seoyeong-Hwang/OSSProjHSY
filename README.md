@@ -5,6 +5,7 @@
 
 [Back-end Repository](https://github.com/CSID-DGU/2025-1-OSSProj-skycastle-03-Back.git)
 
+[Notion] (https://www.notion.so/SKYCASTLE-1b9191254fee80fe8c6feba16872bd80?pvs=4)
 
 ### 0. 팀 구성
 
