@@ -59,3 +59,6 @@
 [수행계획서(250430)](./Doc/1_1_OSSProj_03_SkyCastle_수행계획서(250430).pdf)  
 [발표자료](./Doc/1_2_OSSProj_03_SkyCastle_수행계획발표자료.pdf)  
 [회의록](./Doc/1_3_OSSProj_03_SkyCastle_회의록.pdf)
+
+### 7. 이슈 관리
+[이슈관리](https://www.notion.so/1ef191254fee80f3ad83d5e3e0ac92ad?pvs=4)
