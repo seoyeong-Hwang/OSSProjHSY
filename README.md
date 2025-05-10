@@ -55,7 +55,7 @@
 
 **제안발표**
 
-[수행계획서](./Doc/1_1_OSSProj_03_SkyCastle_수행계획서_v1.pdf) 
+[수행계획서](./Doc/1_1_OSSProj_03_SkyCastle_수행계획서_v1.pdf)  
 [발표자료](./Doc/1_2_OSSProj_03_SkyCastle_수행계획발표자료.pdf)  
 [회의록](./Doc/1_3_OSSProj_03_SkyCastle_회의록.pdf)
 
